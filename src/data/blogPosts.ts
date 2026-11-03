@@ -3,6 +3,28 @@ import { BLOG_POST_SLUGS, BLOG_POST_TRANSLATIONS } from './blogTranslations';
 
 export const INITIAL_BLOG_POSTS: BlogPost[] = [
   {
+    id: 'post-auto-1793720063901',
+    slug: 'arquitectura-visibilidad-local-estrategia-proximidad-2026',
+    title: "Arquitectura de Visibilidad Local: Estrategia de Proximidad 2026",
+    excerpt: "Domina el SEO local en 2026 mediante arquitectura de datos estructurados, optimización de entidades y señales de proximidad para negocios premium.",
+    category: 'seo-local',
+    categoryLabel: 'SEO Local & Google Maps',
+    tags: ["SEO Local","Google Maps","Arquitectura Web","Estructura de Datos","Visibilidad Digital"],
+    author: {
+      name: 'Dexvoi Intelligence Team',
+      role: 'Especialistas en Blindaje & Rendimiento Digital',
+      badge: 'Verified Lead'
+    },
+    publishedAt: '2026-11-03T15:34:23.901Z',
+    readingTimeMinutes: 7,
+    featuredImage: 'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80',
+    metaDescription: "Optimiza tu presencia en Google Maps 2026 con nuestra guía técnica de arquitectura de visibilidad local para clínicas y negocios de alta gama.",
+    keywords: ["SEO Local","Google Maps","Arquitectura Web","Estructura de Datos","Visibilidad Digital"],
+    targetServiceUrl: '/auditoria-seguridad',
+    targetServiceLabel: 'Solicitar Diagnóstico Especializado',
+    content: "## La Nueva Era del SEO Local: Más allá de las Fichas\n\nEn el ecosistema digital de 2026, el SEO local ha dejado de ser una simple gestión de Perfil de Negocio. Para clínicas de élite y restaurantes gastronómicos, la visibilidad es una cuestión de arquitectura de datos y autoridad de entidad. El algoritmo de Google prioriza ahora la correlación semántica entre la ubicación física, la calidad de la respuesta de la web y la integridad de la infraestructura técnica.\n\n## Arquitectura de Entidades y Datos Estructurados (Schema.org)\n\nLa base de cualquier estrategia de proximidad premium reside en el marcado de esquema `LocalBusiness` y sus variantes jerárquicas. No basta con definir un nombre y dirección; es imperativo implementar un grafo de conocimiento propio mediante JSON-LD que vincule:\n\n* `sameAs` hacia perfiles sociales verificados.\n* `geo` con coordenadas precisas.\n* `areaServed` para delimitar el alcance geográfico real.\n* `hasOfferCatalog` para servicios específicos de alto valor.\n\n### Tabla de Impacto: Factores de Ranking Local 2026\n\n| Factor | Impacto (1-10) | Acción Técnica |\n| :--- | :---: | :--- |\n| Proximidad Semántica | 10 | Implementación de Schema Local |\n| Core Web Vitals (LCP/CLS) | 9 | Optimización de Edge Rendering |\n| Consistencia NAP/NAP-W | 8 | Auditoría de Citaciones en API |\n| Autoridad de Entidad | 9 | Link Building Geográfico |\n\n## Optimización del Ecosistema de Proximidad\n\nPara liderar el 3-pack, la infraestructura técnica debe comunicarse con los servicios de Google de forma ininterrumpida. La latencia en la actualización de datos es un error crítico.\n\n### Checklist de Auditoría Técnica para Negocios Premium\n\n- [ ] **Validación de Schema:** Comprobar que no existan errores en la jerarquía de entidades.\n- [ ] **Optimización de Carga:** Servir imágenes webp con dimensiones optimizadas para dispositivos móviles.\n- [ ] **Geotagging de Assets:** Asegurar que las imágenes subidas a la ficha contengan metadatos EXIF de ubicación.\n- [ ] **Seguridad HTTPS:** Implementación obligatoria de certificados SSL/TLS de alta gama.\n- [ ] **Integración API:** Conexión directa con Google Business Profile API para gestión de reviews en tiempo real.\n\n## El Rol de la UX en la Conversión Local\n\nLa arquitectura web debe facilitar la conversión inmediata. Un usuario en un entorno premium no busca información, busca una reserva o una cita. La implementación de *Call-to-Action* (CTA) mediante *Deep Linking* desde el perfil de Google hacia formularios optimizados es la diferencia entre un clic y una venta.\n\n## Conclusión y Próximos Pasos\n\nLa visibilidad local en 2026 no admite improvisaciones. La infraestructura debe estar blindada, ser rápida y, sobre todo, estar perfectamente conectada con las señales que Google demanda para validar la autoridad de tu negocio.\n\n**¿Tu infraestructura digital está preparada para dominar el mercado local?**\n\nEn Dexvoi, realizamos auditorías técnicas profundas para negocios que no aceptan menos que el liderazgo. [Solicita tu auditoría de visibilidad local gratuita hoy mismo](https://dexvoi.com/auditoria-seo-local) y eleva tu presencia digital al siguiente nivel."
+  },
+  {
     id: 'post-auto-1793640657439',
     slug: 'hardening-infraestructura-critica-mitigacion-brechas-2026',
     title: "Hardening de Infraestructura Crítica: Mitigación de Brechas 2026",
