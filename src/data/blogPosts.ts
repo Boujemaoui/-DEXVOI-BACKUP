@@ -3,6 +3,28 @@ import { BLOG_POST_SLUGS, BLOG_POST_TRANSLATIONS } from './blogTranslations';
 
 export const INITIAL_BLOG_POSTS: BlogPost[] = [
   {
+    id: 'post-auto-1793807403854',
+    slug: 'criptografia-post-cuantica-proteccion-datos-2026',
+    title: "Criptografía Post-Cuántica: Protección de Datos Sensibles en 2026",
+    excerpt: "Descubre cómo la criptografía post-cuántica redefine la seguridad en el sector premium. Protege tu infraestructura frente a la amenaza de la computación cuántica.",
+    category: 'ciberseguridad',
+    categoryLabel: 'Ciberseguridad & Compliance',
+    tags: ["Criptografía","Post-Cuántica","Infraestructura","Compliance","Seguridad"],
+    author: {
+      name: 'Dexvoi Intelligence Team',
+      role: 'Especialistas en Blindaje & Rendimiento Digital',
+      badge: 'Verified Lead'
+    },
+    publishedAt: '2026-11-04T15:50:03.854Z',
+    readingTimeMinutes: 7,
+    featuredImage: 'https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1200&q=80',
+    metaDescription: "Prepara tu infraestructura para la era cuántica. Estrategias de cifrado avanzado y resiliencia de datos para clínicas y negocios de alta gama en 2026.",
+    keywords: ["Criptografía","Post-Cuántica","Infraestructura","Compliance","Seguridad"],
+    targetServiceUrl: '/auditoria-seguridad',
+    targetServiceLabel: 'Solicitar Diagnóstico Especializado',
+    content: "## La Amenaza de la Computación Cuántica en 2026\n\nEl avance de la computación cuántica no es una proyección a largo plazo; es una realidad operativa que amenaza los estándares de cifrado actuales. En Dexvoi, como arquitectos de soluciones para sectores de alta sensibilidad (clínicas privadas y gastronomía de élite), entendemos que los datos de pacientes y los activos intelectuales requieren un blindaje que trascienda los algoritmos RSA y ECC tradicionales.\n\n### Vulnerabilidad de los Sistemas Actuales\n\nLos sistemas de cifrado asimétrico que protegen hoy las transacciones, la telemedicina y los datos de clientes en nuestras plataformas serán obsoletos una vez que un ordenador cuántico alcance la 'supremacía criptográfica'. El riesgo 'Store Now, Decrypt Later' (almacenar ahora, descifrar después) es la amenaza más crítica que enfrentan las empresas hoy.\n\n## Estrategias de Cifrado Resistente (PQC)\n\nLa migración hacia algoritmos Post-Quantum Cryptography (PQC) es una prioridad técnica. Implementamos soluciones basadas en esquemas de retículos (lattices) y códigos de corrección de errores que garantizan la integridad frente a ataques de fuerza bruta asistidos por Qubits.\n\n### Comparativa de Impacto en Infraestructura\n\n| Tecnología | Resistencia Cuántica | Latencia | Viabilidad Actual |\n| :--- | :--- | :--- | :--- |\n| RSA-2048 | Nula | Baja | Alta |\n| ECC (Curva Elíptica) | Nula | Muy Baja | Alta |\n| CRYSTALS-Kyber | Alta | Media | En Implementación |\n| SPHINCS+ | Muy Alta | Alta | Experimental |\n\n## Checklist de Implementación para Negocios Premium\n\nPara asegurar una transición segura y eficiente, los directores técnicos deben ejecutar las siguientes acciones:\n\n*   **Inventario de Criptografía:** Identificar qué sistemas y servicios utilizan cifrado asimétrico heredado.\n*   **Agilidad Criptográfica:** Modularizar la arquitectura para permitir el reemplazo de algoritmos sin rediseñar el core del software.\n*   **Evaluación de Proveedores:** Exigir hojas de ruta de cumplimiento post-cuántico a todos los proveedores de infraestructura Cloud.\n*   **Auditoría de Datos Sensibles:** Clasificar la criticidad de los datos para priorizar el cifrado de alta resiliencia.\n\n## Hacia una Resiliencia Total\n\nLa ciberseguridad ya no se trata solo de parches, sino de arquitectura preventiva. En Dexvoi, integramos protocolos de cifrado PQC en los entornos de gestión de nuestros clientes para garantizar la soberanía de los datos a largo plazo.\n\n¿Está su infraestructura preparada para los retos criptográficos de 2026? No deje la seguridad de sus pacientes o clientes al azar. **[Solicite hoy una auditoría de seguridad gratuita con nuestros expertos en Dexvoi](#) y asegure su continuidad operativa.**"
+  },
+  {
     id: 'post-auto-1793740841584',
     slug: 'seguridad-y-rendimiento-ia-reservas-zfcg',
     title: "Eliminación de Comisiones y Motor de Reservas Directo con IA para Alta Restauración y Hostelería Gourmet [Informe 2026-ZFCG]",
