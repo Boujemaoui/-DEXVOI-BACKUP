@@ -3,6 +3,28 @@ import { BLOG_POST_SLUGS, BLOG_POST_TRANSLATIONS } from './blogTranslations';
 
 export const INITIAL_BLOG_POSTS: BlogPost[] = [
   {
+    id: 'post-auto-1793914758725',
+    slug: 'estrategias-visibilidad-hiperlocal-dominio-algoritmo-proximi',
+    title: "Estrategias de Visibilidad Hiperlocal: Dominio del Algoritmo Proximity",
+    excerpt: "Descubre cómo la arquitectura de datos y la optimización de proximidad definen el posicionamiento premium en entornos de alta competencia geográfica.",
+    category: 'seo-local',
+    categoryLabel: 'SEO Local & Google Maps',
+    tags: ["SEO Local","Google Business Profile","Arquitectura Web","Geolocalización","Experiencia de Usuario"],
+    author: {
+      name: 'Dexvoi Intelligence Team',
+      role: 'Especialistas en Blindaje & Rendimiento Digital',
+      badge: 'Verified Lead'
+    },
+    publishedAt: '2026-11-05T21:39:18.725Z',
+    readingTimeMinutes: 7,
+    featuredImage: 'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80',
+    metaDescription: "Domina el SEO local avanzado. Estrategias técnicas para clínicas y restaurantes premium enfocadas en métricas de proximidad, E-E-A-T y Google Maps.",
+    keywords: ["SEO Local","Google Business Profile","Arquitectura Web","Geolocalización","Experiencia de Usuario"],
+    targetServiceUrl: '/auditoria-seguridad',
+    targetServiceLabel: 'Solicitar Diagnóstico Especializado',
+    content: "## La Nueva Era de la Proximidad Algorítmica\n\nEn el ecosistema digital de 2026, la visibilidad local ha dejado de ser una cuestión de densidad de palabras clave para convertirse en un desafío de arquitectura de datos y latencia. Para las clínicas y establecimientos gastronómicos que gestionamos en Dexvoi, la proximidad es el factor determinante que el algoritmo de Google utiliza para filtrar la autoridad de marca.\n\n### Factores de Ranking en Entornos Premium\n\nEl SEO local moderno depende de la sincronización perfecta entre el *Google Business Profile* (GBP) y la infraestructura técnica de tu sitio web. No basta con tener reseñas; se requiere una estructura de datos estructurados (Schema Markup) que valide tu ubicación física y servicios mediante la API de Google Maps y protocolos de autenticación de entidad.\n\n## Arquitectura de Datos y Schema Markup Local\n\nPara liderar el mercado, es imperativo implementar un marcado de datos `LocalBusiness` avanzado. Esto permite a los motores de búsqueda entender no solo dónde estás, sino qué resuelves con precisión quirúrgica. La integración de `geoCoordinates` y `areaServed` es obligatoria para cualquier infraestructura digital de élite.\n\n### Tabla Comparativa: Impacto en Visibilidad Local\n\n| Estrategia | Impacto en Ranking | Esfuerzo Técnico | Retorno (ROI)\n| :--- | :--- | :--- | :--- |\n| Optimización de Perfil GBP | Alto | Bajo | Inmediato |\n| Schema Markup Avanzado | Crítico | Alto | Largo Plazo |\n| SEO On-Page Hiperlocal | Medio | Medio | Sostenido |\n| Backlinks Geográficos | Alto | Muy Alto | Elevado |\n\n## Checklist de Optimización Técnica Local\n\nPara asegurar una ventaja competitiva, audite su infraestructura bajo estos parámetros:\n\n* **Consistencia NAP (Name, Address, Phone):** Auditoría total en directorios y mapas.\n* **Implementación de Web Vitals:** Garantizar que el renderizado local sea inferior a 300ms.\n* **Contenido Hiperlocal:** Páginas de aterrizaje optimizadas por zonas de influencia (barrios/distritos).\n* **Gestión de Entidades:** Verificación de marca en Google Knowledge Graph.\n\n## El Factor E-E-A-T en la Proximidad\n\nLa autoridad de una clínica o restaurante se mide hoy por la capacidad de demostrar Experiencia, Pericia, Autoridad y Confianza en un radio geográfico limitado. La curación de reseñas técnicas y el *link building* de proximidad actúan como señales de confianza que el algoritmo prioriza frente a competidores genéricos.\n\n### ¿Está su infraestructura preparada para el dominio local?\n\nLa visibilidad no es un accidente, es ingeniería. En Dexvoi, analizamos su arquitectura actual para identificar brechas de posicionamiento que le impiden captar tráfico cualificado en su zona de influencia.\n\n**Solicite ahora su auditoría técnica gratuita de SEO Local y descubra cómo escalar su presencia en Google Maps con nuestra consultoría de élite.**"
+  },
+  {
     id: 'post-auto-1793894014243',
     slug: 'orquestacion-reservas-agentes-autonomos-ia-2026',
     title: "Orquestación de Reservas con Agentes Autónomos: IA y Eficiencia 2026",
